@@ -1,0 +1,7 @@
+CRTL + SHIFT + SETA PRA BAIXO 
+Seleciona todos os dados da coluna que deseja 
+
+CRTL + T
+Seleciona toda a tabela 
+
+Para selecionar a equação que deseja, ao invés de clicar, é só usar o Tab.
